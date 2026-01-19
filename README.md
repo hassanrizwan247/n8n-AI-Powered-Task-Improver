@@ -1,4 +1,4 @@
-*# AI-Powered Task Description Improver (n8n)
+## AI-Powered Task Description Improver (n8n)
 
 ## 📌 Overview
 This project is a real-world **AI-powered automation workflow built using n8n**.  
